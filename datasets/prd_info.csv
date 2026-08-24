@@ -1,0 +1,72 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,status,created_at,updated_at
+PRD1001,Dolphin Facial Lifter,Beauty,Skincare,45.00,15.00,Active,2025-01-10,2026-01-05 08:30:00
+PRD1002, Electric Fat Burner Massager ,beauty,Body Care,60.00,20.00,active,12/01/2025,2026-01-06 09:15:00
+PRD1003,4D Silk Fiber Mascara,Beauty,Makeup,15.00,3.50,A,2025-01-12,2026-01-07 10:00:00
+PRD1004,Porevac Elite Skin Cleanser,BEAUTY,Skincare,$35.00,10.00,Active,2025-01-13,2026-01-08 11:20:00
+PRD1005,Silicone Cube Facial Ice Roller,Beauty,,12.00,2.00,1,2025/01/14,2026-01-09 14:00:00
+PRD1006,Wireless Bluetooth Earbuds,Electronics,Audio,29.99,8.50,Active,2025-01-15,2026-01-10 16:45:00
+PRD1007,Smart Fitness Watch,electronics,Wearables,89.90,35.00,ACTIVE,2025-01-16,2026-01-11 07:10:00
+PRD1008,USB-C Fast Charging Cable,Electronics,Accessories,9.99,1.20,Active,2025-01-17,2026-01-12 12:30:00
+PRD1009, Ergonomic Gaming Mouse ,Electronics,Peripherals,45.00,18.00,Discontinued,2025-01-18,2026-01-13 13:25:00
+PRD1010,Mechanical RGB Keyboard,Electronics,Peripherals,-75.00,30.00,Active,2025-01-19,2026-01-14 15:50:00
+PRD1011,LED Desk Lamp with Wireless Charger,Home & Living,Lighting,32.50,12.00,Active,2025-01-20,2026-01-15 17:05:00
+PRD1012,Stainless Steel Water Bottle,Home & Living,Kitchen,18.00,5.00,active,2025-01-21,2026-01-16 08:00:00
+PRD1013, Memory Foam Pillow ,HOME & LIVING,Bedding,25.00,8.50,Active,2025-01-22,2026-01-17 09:40:00
+PRD1014,Aromatherapy Essential Oil Diffuser,Home & Living,Decor,22.00,7.00,A,2025-01-23,2026-01-18 11:15:00
+PRD1015,Automatic Soap Dispenser,Home & Living,Bathroom,16.50,4.80,Active,2025-01-24,2026-01-19 14:50:00
+PRD1015,Automatic Soap Dispenser,Home & Living,Bathroom,16.50,4.80,Active,2025-01-24,2026-01-19 14:50:00
+PRD1016,Oversized Hoodie Sweatshirt,Fashion,Men Wear,39.99,14.00,Active,2025-01-25,2026-01-20 16:30:00
+PRD1017,Seamless High Waist Leggings,fashion,Women Wear,$28.00,9.00,active,2025-01-26,2026-01-21 10:10:00
+PRD1018,Leather Minimalist Wallet,Fashion,Accessories,20.00,4.50,Active,2025-01-27,2026-01-22 11:55:00
+PRD1019,Polarized UV400 Sunglasses,Fashion,Glasses,15.99,3.00,Discontinued,2025-01-28,2026-01-23 13:40:00
+PRD1020, Waterproof Running Shoes ,FASHION,Footwear,55.00,22.00,Active,2025-01-29,2026-01-24 15:20:00
+PRD1021,Vitamin C Brightening Serum,Beauty,Skincare,24.50,6.00,Active,2025-01-30,2026-01-25 17:00:00
+PRD1022,Hyaluronic Acid Hydration Cream,beauty,Skincare,22.00,5.50,A,2025-01-31,2026-01-26 08:45:00
+PRD1023,Matte Liquid Lipstick,Beauty,Makeup,12.50,2.10,1,2025-02-01,2026-01-27 09:30:00
+PRD1024,Exfoliating Body Scrub,Beauty,Body Care,18.00,4.20,Active,2025-02-02,2026-01-28 10:15:00
+PRD1025,Sunscreen SPF50 PA++++,BEAUTY,,19.99,5.00,Active,2025-02-03,2026-01-29 11:00:00
+PRD1026,Portable Power Bank 20000mAh,Electronics,Accessories,35.00,12.50,Active,2025-02-04,2026-01-30 14:10:00
+PRD1027,Noise Cancelling Headphones,electronics,Audio,120.00,45.00,ACTIVE,2025-02-05,2026-01-31 16:05:00
+PRD1028,HD Webcam 1080p,Electronics,Peripherals,29.00,10.00,Active,2025-02-06,2026-02-01 08:20:00
+PRD1029, Smartphone Tripod Stand ,Electronics,Accessories,14.50,3.80,active,2025-02-07,2026-02-02 09:50:00
+PRD1030,Portable Mini Projector,Electronics,Video,85.00,38.00,Active,2025-02-08,2026-02-03 11:30:00
+PRD1031,Non-Stick Ceramic Frying Pan,Home & Living,Kitchen,27.00,9.00,0,2025-02-09,2026-02-04 13:10:00
+PRD1032,Air Purifier for Bedroom,Home & Living,Appliances,65.00,28.00,Active,2025-02-10,2026-02-05 15:00:00
+PRD1033,Robot Vacuum Cleaner,HOME & LIVING,Appliances,150.00,60.00,Active,2025-02-11,2026-02-06 16:40:00
+PRD1034,BPA-Free Water Pitcher,Home & Living,Kitchen,15.00,4.00,Active,2025-02-12,2026-02-07 09:00:00
+PRD1035, Microfiber Bed Sheet Set ,Home & Living,Bedding,30.00,11.00,active,2025-02-13,2026-02-08 10:25:00
+PRD1036,Casual Denim Jacket,Fashion,Men Wear,48.00,18.00,Discontinued,2025-02-14,2026-02-09 11:50:00
+PRD1037,Cotton Graphic T-Shirt,fashion,Men Wear,18.00,4.50,Active,2025-02-15,2026-02-10 14:15:00
+PRD1038,Floral Summer Dress,Fashion,Women Wear,32.00,10.00,A,2025-02-16,2026-02-11 15:45:00
+PRD1039,Canvas Travel Backpack,Fashion,Bags,35.00,12.00,Active,2025-02-17,2026-02-12 17:10:00
+PRD1040,Sport Ankle Socks (5-Pack),FASHION,Accessories,9.99,2.00,Active,2025-02-18,2026-02-13 08:15:00
+PRD1041,Retinol Anti-Aging Night Cream,Beauty,Skincare,29.99,8.00,Active,2025-02-19,2026-02-14 09:35:00
+PRD1042, Waterproof Eyebrow Pencil ,beauty,Makeup,8.50,1.20,active,2025-02-20,2026-02-15 10:50:00
+PRD1043,Hair Growth Oil Treatment,Beauty,Haircare,16.00,3.50,Active,2025-02-21,2026-02-16 13:05:00
+PRD1044,Clay Purifying Face Mask,BEAUTY,Skincare,14.00,3.00,1,2025-02-22,2026-02-17 14:30:00
+PRD1045,Electric Makeup Brush Cleaner,Beauty,Tools,21.00,6.50,Active,2025-02-23,2026-02-18 16:00:00
+PRD1046,Smart Electric Toothbrush,Electronics,Personal Care,39.99,14.00,Active,2025-02-24,2026-02-19 08:50:00
+PRD1047,Adjustable Laptop Stand,Electronics,Accessories,25.00,7.50,ACTIVE,2025-02-25,2026-02-20 10:20:00
+PRD1048,Dual Band Wi-Fi Router,electronics,Networking,45.00,18.00,Active,2025-02-26,2026-02-21 11:40:00
+PRD1049,Bluetooth Speaker Portable,Electronics,Audio,28.00,9.00,active,2025-02-27,2026-02-22 13:25:00
+PRD1050,USB Extension Cable 2m,Electronics,Accessories,6.50,1.00,Active,2025-02-28,2026-02-23 15:10:00
+PRD1051, Thick Velvet Curtains ,Home & Living,Decor,42.00,16.00,Active,2025-03-01,2026-02-24 16:50:00
+PRD1052,Stainless Steel Cutlery Set,Home & Living,Kitchen,22.00,7.00,0,2025-03-02,2026-02-25 09:10:00
+PRD1053,Adjustable Office Chair,HOME & LIVING,Furniture,110.00,45.00,Active,2025-03-03,2026-02-26 10:45:00
+PRD1054,Bamboo Cutting Board,Home & Living,Kitchen,12.00,3.20,Active,2025-03-04,2026-02-27 12:00:00
+PRD1055,Scented Soy Candle,Home & Living,,10.00,2.50,active,2025-03-05,2026-02-28 14:15:00
+PRD1056,Men Leather Dress Belt,Fashion,Accessories,19.99,5.00,Active,2025-03-06,2026-03-01 15:30:00
+PRD1057, Women Silk Scarf ,fashion,Accessories,14.00,3.00,A,2025-03-07,2026-03-02 17:00:00
+PRD1058,Running Shorts with Pocket,Fashion,Men Wear,16.50,4.20,Active,2025-03-08,2026-03-03 08:30:00
+PRD1059,Knit Cardigan Sweater,Fashion,Women Wear,36.00,12.50,Discontinued,2025-03-09,2026-03-04 09:55:00
+PRD1060,Leather Crossbody Bag,FASHION,Bags,45.00,16.00,Active,2025-03-10,2026-03-05 11:20:00
+PRD1061,Niacinamide Pore Serum,Beauty,Skincare,21.00,5.00,Active,2025-03-11,2026-03-06 13:40:00
+PRD1062,Volumizing Shampoo 500ml,beauty,Haircare,15.00,3.80,active,2025-03-12,2026-03-07 15:05:00
+PRD1063,Hydrating Lip Balm,Beauty,Skincare,5.00,0.80,Active,2025-03-13,2026-03-08 16:25:00
+PRD1064,Waterproof Liquid Eyeliner,Beauty,Makeup,11.00,2.00,1,2025-03-14,2026-03-09 09:05:00
+PRD1065,Deep Cleansing Oil,BEAUTY,Skincare,22.50,6.00,Active,2025-03-15,2026-03-10 10:30:00
+PRD1066,Fast Wireless Charging Pad,Electronics,Accessories,18.00,5.50,Active,2025-03-16,2026-03-11 11:45:00
+PRD1067,Gaming Headset with Mic,electronics,Audio,38.00,14.00,ACTIVE,2025-03-17,2026-03-12 14:00:00
+PRD1068,Smart Plug Wi-Fi Outlet,Electronics,Home Tech,14.00,3.50,Active,2025-03-18,2026-03-13 15:20:00
+PRD1069,Silicone Kitchen Utensil Set,Home & Living,Kitchen,24.00,7.00,active,2025-03-19,2026-03-14 16:45:00
+PRD1070,Casual Canvas Sneakers,Fashion,Footwear,32.00,11.00,Active,2025-03-20,2026-03-15 08:40:00
