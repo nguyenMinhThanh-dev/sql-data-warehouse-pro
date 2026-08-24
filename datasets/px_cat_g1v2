@@ -1,0 +1,26 @@
+id,cat,subcat,maintenance
+PRD_B01,Beauty & Personal Care,Skincare Tools,Yes
+PRD_B02,Beauty & Personal Care,Massagers,Y
+PRD_B03,Beauty & Personal Care,Makeup,No
+PRD_B04,Beauty & Personal Care,Skincare Tools,N
+PRD_B05,Beauty & Personal Care,Personal Care, No 
+PRD_E01,Electronics,Lighting,Yes
+PRD_E02,Electronics,Computer Accessories,NO
+PRD_E03,ELECTRONICS,Audio,YES
+PRD_E04,Electronics,Power & Charging,No
+PRD_H01,Home & Kitchen,Home Decor,No
+PRD_H02,Home & Kitchen,Bedding,N
+PRD_H03,Home & Kitchen,Drinkware,No
+PRD_H04,Home & Kitchen,Kitchen Appliances,Yes
+PRD_S01,Sports & Fitness,Yoga & Pilates,No
+PRD_S02,Sports & Fitness,Fitness Equipment,No
+PRD_S03,Sports & Fitness,Fitness Equipment,No
+PRD_B06,Beauty & Personal Care,Skincare Tools,Yes
+PRD_B07,Beauty & Personal Care,Skincare Tools,Y
+PRD_E05,Electronics,Computer Accessories,No
+PRD_E06,Electronics,Audio,Yes
+PRD_H05,Home & Kitchen,Kitchen Appliances,Y
+PRD_X01,Out of Stock / Discontinued,Legacy,n/a
+PRD_X02,Unknown,Unknown,
+PRD_ERP_ONLY,Industrial Equipment,Machinery,True
+PRD_B01,Beauty & Personal Care,Skincare Tools,Yes
